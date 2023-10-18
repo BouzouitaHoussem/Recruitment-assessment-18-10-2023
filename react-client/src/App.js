@@ -39,4 +39,5 @@ const switchView = (x) => {
   );
 }
 
+
 export default App;

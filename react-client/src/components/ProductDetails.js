@@ -13,6 +13,8 @@ const ProductDetails = () => {
             <h2>Price : $1999</h2>
             <button>Add to Cart</button>
           </div>
+          
+          
         </div>
       );
 }
